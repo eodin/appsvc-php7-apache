@@ -4,12 +4,12 @@
 
 ### Build Azure Docker container
 ```
-docker build -t eodin/appsvc-php7-apache .
+docker build -t appsvc-php7-apache .
 ```
 
 ## Local Development
 ```
-docker run -it -p 8080:8080 -v weblogs:/home/LogFiles -v ./:/home/site/wwwroot eodin/appsvc-php7-apache
+docker run -it -p 8080:8080 -v weblogs:/home/LogFiles -v ./:/home/site/wwwroot appsvc-php7-apache
 ```
 Browse http://localhost:8080
 
