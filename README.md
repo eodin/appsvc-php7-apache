@@ -14,6 +14,8 @@ docker run -it -p 8080:8080 -v weblogs:/home/LogFiles -v ./:/home/site/wwwroot a
 Browse http://localhost:8080
 
 ## The References
-* Microsoft official repository - https://hub.docker.com/r/appsvc/php/
+* Microsoft official repository 
+ * https://hub.docker.com/r/appsvc/php/
+ * https://github.com/Azure-App-Service/
 * PHP - https://github.com/docker-library/docs/tree/master/php
 
