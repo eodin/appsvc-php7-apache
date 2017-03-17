@@ -1,6 +1,6 @@
 FROM php:7.0.6-apache
 
-MAINTAINER Yuri Novik <yuri.novik@postivafx.eu>
+MAINTAINER Yuri Novik
 
 LABEL Version="1.0" \
 	Description="Azure Web App on Linux / App Service \
