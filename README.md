@@ -15,7 +15,7 @@ Browse http://localhost:8080
 
 ## The References
 * Microsoft official repository 
- ** https://hub.docker.com/r/appsvc/php/
- ** https://github.com/Azure-App-Service/
+  * https://hub.docker.com/r/appsvc/php/
+  * https://github.com/Azure-App-Service/
 * PHP - https://github.com/docker-library/docs/tree/master/php
 
